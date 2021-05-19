@@ -41,3 +41,14 @@ a {
   width: 30%;
   margin: 0.5rem;
 }
+
+.home-card {
+  max-width: 600px;
+  height: max-content;
+  margin: 50px auto;
+  padding-top: 3px;
+  /* display: flex;
+  flex-direction: column;
+  justify-content: center; */
+
+}
